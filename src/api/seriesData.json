@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Lovely Runner",
+        "id": "lovely-runner",
+        "img_url": "http://localhost:5173/images/lr.webp",
+        "rating": "9.8",
+        "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu SunJae.",
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+        "genre": ["Romantic Comedy", "Fantasy"],
+        "watch_url": "https://www.justwatch.com/in/tv-show/lovely-runner/season-1"
+    },
+    {
+        "name": "Stranger Things",
+        "id": "stranger-things",
+        "img_url": "http://localhost:5173/images/st.webp",
+        "rating": "8.4",
+        "description": "A group of young friends witness supernatural forces and secret government exploits.",
+        "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+        "genre": ["mystery"," supernatural fantasy"," coming-of-age","comedy drama"],
+        "watch_url":"https://www.netflix.com/tudum/stranger-things"
+    },
+    {
+        "name": "The Witcher",
+        "id": "The-Witcher",
+        "img_url": "http://localhost:5173/images/witch.webp",
+        "rating": "8.7",
+        "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu SunJae.",
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+        "genre": ["Romantic Comedy", "Fantasy"],
+        "watch_url": "https://www.imdb.com/title/tt5180504/"
+    }
+]
